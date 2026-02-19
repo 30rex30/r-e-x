@@ -42,8 +42,3 @@ O **REX** é um dashboard pessoal e minimalista que combina uma estética espaci
 
 ---
 
-## 📦 [ Installation ]
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/rex.git](https://github.com/seu-usuario/rex.git)
